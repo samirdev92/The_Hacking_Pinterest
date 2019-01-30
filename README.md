@@ -1,24 +1,11 @@
-# README
+# Project Title
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projet du mercredi réaliser par Ahmed Tou, Samir Asfor, et Alex Soares
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+On s'est casse le cul hier j'en dirais pas plus
 
-* System dependencies
+### Prerequisites
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Va falloir faire un effort les mecs abusez pas et cochez oui pour le README il est 23h actuellement.
